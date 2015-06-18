@@ -1,3 +1,5 @@
+
+
 def check_for_missing_column(file_obj,delimiter=','):
     ind = 0
     for val in file_obj:
